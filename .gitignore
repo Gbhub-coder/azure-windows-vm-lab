@@ -4,6 +4,10 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+#gitleaks
+.gitleaks.toml
+report.json
+
 
 # Crash log files
 crash.log
