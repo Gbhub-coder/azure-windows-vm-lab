@@ -1,8 +1,0 @@
-title = "Custom Gitleaks Rules"
-
-[[rules]]
-id = "terraform-password"
-
-description = "Detect Terraform passwords"
-
-regex = '''(?i)(admin_password|password|client_secret|secret|token)\s*=\s*"[^"]+"'''
