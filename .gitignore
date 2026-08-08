@@ -7,7 +7,7 @@
 #gitleaks
 .gitleaks.toml
 report.json
-terraform.tfvars
+
 
 # Crash log files
 crash.log
